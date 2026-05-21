@@ -1,7 +1,7 @@
-echo "# trabajosunidad2daisy" >> README.md
+echo "# unidad2daisy" >> README.md
 git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/beth77797/trabajosunidad2daisy.git
-git push -u origin main
+git remote add origin https://github.com/beth77797/unidad2daisy.git
+git push -f origin main
